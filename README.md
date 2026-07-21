@@ -9,9 +9,9 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/kenildhola010/code_share/issues">Report Bug</a>
+    <a href="https://github.com/Hardikv07/Code-Share/issues">Report Bug</a>
     ·
-    <a href="https://github.com/kenildhola010/code_share/issues">Request Feature</a>
+    <a href="https://github.com/Hardikv07/Code-Share/issues">Request Feature</a>
   </p>
 </p>
 
@@ -73,7 +73,7 @@ To get a local copy up and running follow these simple example steps.
 
 Fork, then download or clone the repo.
 ```bash
-git clone https://github.com/kenildhola010/code_share.git
+git clone https://github.com/Hardikv07/Code-Share.git
 ```
 
 For the **back-end**, install the dependencies once via the terminal.
@@ -126,6 +126,16 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+
+<!-- CONTACT -->
+## Contact
+
+Hardik Vachhani - [@Hardikv07](https://github.com/Hardikv07)
+
+Project Link: [https://github.com/Hardikv07/Code-Share](https://github.com/Hardikv07/Code-Share)
+
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
