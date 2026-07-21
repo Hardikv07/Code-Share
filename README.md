@@ -128,16 +128,6 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-<!-- CONTACT -->
-## Contact
-
-Kenil Dhola - [@kenildhola010](https://github.com/kenildhola010)
-
-Project Link: [https://github.com/kenildhola010/code_share](https://github.com/kenildhola010/code_share)
-
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: images/screenshot.PNG
